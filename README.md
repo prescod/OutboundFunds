@@ -2,7 +2,7 @@
 
 ![Outbound Funds Logo](https://github.com/SFDO-Community/OutboundFunds/blob/master/images/Outbound%20Funds%20OSC%20Logo%20250x250.png)
 
-The Outbound Funds app is a community developed and maintained Open Source Commons project. It is a customizable foundation for managing funds awarded by your organization, like grants, scholarships or internal funding.
+The Outbound Funds app is a community developed and maintained Open Source Commons project. It is a customizable foundation for managing funds awarded by your organization, like grants, scholarships or internal funding. XXX
 
 Links:
 
